@@ -2,8 +2,9 @@
 
 - 🌱 I’m currently learning swift
 - 💬 Ask me about flutter and java android
-- ⚡ Fun fact: - I'm very enthuastic about android development and website development.
-              - I like learn new things.
+- ⚡ Fun fact: 
+-  I'm very enthuastic about android development and website development.
+-  I like learn new things.
 <!--
 **wahyudianpratiwi1/wahyudianpratiwi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
